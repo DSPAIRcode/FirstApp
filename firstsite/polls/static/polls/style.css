@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/damn.png") no-repeat;
+    height: 90%;
+    width: 90%;
+    background-size: cover;
+    background-position: center;
+}
+
